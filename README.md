@@ -1,0 +1,2 @@
+# stok-barang
+web
